@@ -352,7 +352,7 @@ GameObject:
   - component: {fileID: 368956567}
   - component: {fileID: 368956566}
   m_Layer: 0
-  m_Name: Text (TMP)
+  m_Name: Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -398,8 +398,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Gesture Detection
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 9d91ce39c9faa334cb280bc5ecbd9554, type: 2}
+  m_sharedMaterial: {fileID: 7239584080484970669, guid: 9d91ce39c9faa334cb280bc5ecbd9554,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -522,7 +523,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 7239584080484970669, guid: 9d91ce39c9faa334cb280bc5ecbd9554, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1364,7 +1365,7 @@ GameObject:
   - component: {fileID: 701160089}
   - component: {fileID: 701160088}
   m_Layer: 0
-  m_Name: Text (TMP) (3)
+  m_Name: LeftGestureName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1410,8 +1411,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Left Hand
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
+  m_sharedMaterial: {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1534,7 +1536,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1575,7 +1577,7 @@ GameObject:
   - component: {fileID: 764284950}
   - component: {fileID: 764284949}
   m_Layer: 0
-  m_Name: Text (TMP) (1)
+  m_Name: Left Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1621,8 +1623,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Left Hand
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
+  m_sharedMaterial: {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1745,7 +1748,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1804,7 +1807,7 @@ GameObject:
   - component: {fileID: 886348357}
   - component: {fileID: 886348356}
   m_Layer: 0
-  m_Name: Text (TMP) (2)
+  m_Name: Right Title
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1850,8 +1853,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Right Hand
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
+  m_sharedMaterial: {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1974,7 +1978,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2225,22 +2229,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b9a9d0bdaf5c1c4cad74e7a73299393, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentGestureName: Not Sure
+  tolerance: 0.6
   leftHandPos:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
+  - {x: -0.0077097383, y: 0.052621827, z: 0.1644889}
+  - {x: 0.02377323, y: 0.06875552, z: 0.16915728}
+  - {x: 0.044066306, y: 0.07410537, z: 0.17637491}
+  - {x: 0.02463612, y: 0.08407399, z: 0.19968116}
+  - {x: 0.038539387, y: 0.06861572, z: 0.19204739}
+  - {x: 0.030513749, y: 0.059212074, z: 0.18427372}
+  - {x: 0.020495333, y: 0.071455345, z: 0.21088305}
+  - {x: 0.030068042, y: 0.053667232, z: 0.19760445}
+  - {x: 0.016803117, y: 0.044978008, z: 0.19057584}
+  - {x: 0.0076912087, y: 0.045639083, z: 0.23362087}
+  - {x: 0.017749276, y: 0.037038818, z: 0.22186914}
+  - {x: 0.008799848, y: 0.032194898, z: 0.21406606}
+  - {x: 0.01420684, y: 0.057998583, z: 0.22380976}
+  - {x: 0.023741022, y: 0.042907342, z: 0.20979577}
+  - {x: 0.011177525, y: 0.036164925, z: 0.20120376}
   rightHandPos:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
@@ -2257,6 +2263,42 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
+  saveActive: 1
+  gestureList:
+  - name: Fist
+    fingerPositions:
+    - {x: -0.058183976, y: 0.12958936, z: 0.31670338}
+    - {x: -0.040443286, y: 0.13166173, z: 0.34778982}
+    - {x: -0.03888963, y: 0.13175529, z: 0.3695405}
+    - {x: -0.033526037, y: 0.16169168, z: 0.352634}
+    - {x: -0.034448273, y: 0.13892037, z: 0.35753024}
+    - {x: -0.043566156, y: 0.1306083, z: 0.34778577}
+    - {x: -0.04864961, y: 0.1602437, z: 0.36106044}
+    - {x: -0.047079127, y: 0.13540742, z: 0.36008793}
+    - {x: -0.055566154, y: 0.1294539, z: 0.3452959}
+    - {x: -0.08411576, y: 0.15686716, z: 0.36955267}
+    - {x: -0.07674722, y: 0.14016294, z: 0.36748284}
+    - {x: -0.07976721, y: 0.13637072, z: 0.3547204}
+    - {x: -0.06739897, y: 0.15837766, z: 0.36606926}
+    - {x: -0.06326041, y: 0.13526727, z: 0.36294663}
+    - {x: -0.06881757, y: 0.1299017, z: 0.3470863}
+  - name: Spread fingers
+    fingerPositions:
+    - {x: -0.0670678, y: 0.10429002, z: 0.27126393}
+    - {x: -0.031599585, y: 0.10594328, z: 0.27324778}
+    - {x: -0.009799646, y: 0.106757686, z: 0.2743656}
+    - {x: -0.029014457, y: 0.12411456, z: 0.332923}
+    - {x: -0.008591255, y: 0.13208511, z: 0.34880793}
+    - {x: 0.0030581935, y: 0.13088554, z: 0.3576085}
+    - {x: -0.047122207, y: 0.12908027, z: 0.35010815}
+    - {x: -0.03125172, y: 0.14146574, z: 0.37372237}
+    - {x: -0.020990284, y: 0.14494932, z: 0.38665664}
+    - {x: -0.092689745, y: 0.118677005, z: 0.36090994}
+    - {x: -0.09327762, y: 0.12674668, z: 0.38168705}
+    - {x: -0.092514984, y: 0.1294303, z: 0.3942032}
+    - {x: -0.069890834, y: 0.12683941, z: 0.3583145}
+    - {x: -0.061289467, y: 0.13915744, z: 0.3834957}
+    - {x: -0.055152215, y: 0.14378558, z: 0.39825517}
 --- !u!4 &1363262798
 Transform:
   m_ObjectHideFlags: 0
@@ -3074,7 +3116,7 @@ GameObject:
   - component: {fileID: 1392722974}
   - component: {fileID: 1392722973}
   m_Layer: 0
-  m_Name: Text (TMP) (4)
+  m_Name: RightGestureName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3120,8 +3162,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: Right Hand
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
+  m_sharedMaterial: {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3244,7 +3287,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: -4671560677452283974, guid: 7446dc3c101697542b30da8dbe37cc8c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -3306,7 +3349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11407378, guid: 869d20cdda15af24aab9e72b5f2eec78, type: 3}
       propertyPath: _showArm
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11407378, guid: 869d20cdda15af24aab9e72b5f2eec78, type: 3}
       propertyPath: _material
@@ -3363,7 +3406,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11407378, guid: 39d18871c11b53c4082d8202e3db68a3, type: 3}
       propertyPath: _showArm
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11407378, guid: 39d18871c11b53c4082d8202e3db68a3, type: 3}
       propertyPath: _material
@@ -3471,7 +3514,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1776077979}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.129, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
